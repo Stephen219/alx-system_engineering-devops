@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A1 --group-directories-first | sort -df
+ls -amvpf
