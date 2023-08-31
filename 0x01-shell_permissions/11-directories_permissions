@@ -1,2 +1,2 @@
 #!/bin/bash
-for d in */; do chmod 711 "$d"; done
+chmod -R ugo+x
